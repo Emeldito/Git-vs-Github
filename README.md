@@ -16,3 +16,7 @@ Muitas pessoas utilizam o GitHub como portfólio de seu trabalho para que empres
 O GitHub só suporta o Git, então para você subir seus projetos deve utilizá-lo, mas a integração entre eles é bem fácil. Agora caso queira utilizar somente o Git, não tem problema. Ao contrário do GitHub, o Git não depende do GitHub para ser utilizado.
 
 Se você quiser aprofundar seus conhecimentos no Git e GitHub, conhecer os comandos e tudo mais, dá uma conferida no nosso curso 😊
+
+
+
+
